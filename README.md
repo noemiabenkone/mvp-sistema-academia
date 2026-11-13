@@ -10,4 +10,4 @@ Repositório desenvolvido para a Experiência Prática de Sistemas de Informaç�
 ## Tecnologias
 - Python
 - FastAPI
-- PostgreSQL 
+- PostgreSQL/ SQLite 
